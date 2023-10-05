@@ -31,7 +31,7 @@ _ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal 
 * Masatomo Kaneko, GIovanni E Cacciamani, Yijing Yang, Vasileios Magoulianitis, __Jintang Xue__, Jiaxin Yang, Jinyuan Liu, Maria Sarah L Lenon, Passant Mohamed, Darryl H Hwang, Karan Gill, Manju Aron, Vinay Duddalwar, Suzanne L Palmer, C-C Jay Kuo, Andre Luis Abreu, Inderbir Gill, Chrysostomos L Nikias,
 "MP09-05 AUTOMATED PROSTATE GLAND AND PROSTATE ZONES SEGMENTATION USING A NOVEL MRI-BASED MACHINE LEARNING FRAMEWORK AND CREATION OF SOFTWARE INTERFACE FOR USERS ANNOTATION",
 _The Journal of Urology 209.Supplement 4 (2023): e105_.
-[[paper](https://www.auajournals.org/doi/abs/10.1097/JU.0000000000003224.05){:target="_blank"},
+[[paper](https://www.auajournals.org/doi/abs/10.1097/JU.0000000000003224.05){:target="_blank"}]
 
 * Masatomo Kaneko, Giovanni E Cacciamani, Vasileios Magoulianitis, Yijing Yang, __Jintang Xue__, Jiaxin Yang, Jinyuan Liu, Maria Sarah L Lenon, Passant Mohamed, Darryl H Hwang, Karan Gill, Manju Aron, Vinay Duddalwar, Suzanne L Palmer, C-C Jay Kuo, Inderbir Gill, Andre Luis Abreu, Chrysostomos L Nikias,
 "MP55-20 A NOVEL MACHINE LEARNING FRAMEWORK FOR AUTOMATED DETECTION OF PROSTATE CANCER LESIONS CONFIRMED ON MRI-INFORMED TARGET BIOPSY",
