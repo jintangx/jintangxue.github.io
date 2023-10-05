@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Jintang Xue"
-description              : &description "Ph.D. Student in ECE at USC"
+description              : &description "Ph.D. Student in ECE @ USC"
 url                      : https://jintangxue.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jintangxue/jintangxue.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jintang Xue"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. Student in ECE at USC"
+  bio              : "Ph.D. Student @ USC ECE"
   location         : "Los Angeles, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
