@@ -83,11 +83,11 @@ author:
   name             : "Jintang Xue"
   avatar           : "profile.jpg"
   bio              : "Ph.D. Student in ECE at USC"
-  location         : "Location"
+  location         : "Los Angeles, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=jj6aMWUAAAAJ"
-  email            : "jintangx AT usc DOT edu"
+  email            : "jintangx@usc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/jintang-xue-1a348621b/"
+  linkedin         : "jintang-xue-1a348621b"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
