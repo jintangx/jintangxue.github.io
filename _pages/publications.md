@@ -23,6 +23,11 @@ _APSIPA Transactions on Signal and Information Processing 12.1 (2023)_.
 _arXiv_.
 [[paper](https://arxiv.org/abs/2306.17170){:target="_blank"}]
 
+* Pranav Kadam, Hardik Prajapati, Min Zhang, __Jintang Xue__, Shan Liu, C-C Jay Kuo,
+"S3I-PointHop: SO (3)-Invariant PointHop for 3D Point Cloud Classification",
+_ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_.
+[[paper](https://ieeexplore.ieee.org/abstract/document/10095473){:target="_blank"}]
+
 * Masatomo Kaneko, GIovanni E Cacciamani, Yijing Yang, Vasileios Magoulianitis, __Jintang Xue__, Jiaxin Yang, Jinyuan Liu, Maria Sarah L Lenon, Passant Mohamed, Darryl H Hwang, Karan Gill, Manju Aron, Vinay Duddalwar, Suzanne L Palmer, C-C Jay Kuo, Andre Luis Abreu, Inderbir Gill, Chrysostomos L Nikias,
 "MP09-05 AUTOMATED PROSTATE GLAND AND PROSTATE ZONES SEGMENTATION USING A NOVEL MRI-BASED MACHINE LEARNING FRAMEWORK AND CREATION OF SOFTWARE INTERFACE FOR USERS ANNOTATION",
 _The Journal of Urology 209.Supplement 4 (2023): e105_.
@@ -37,8 +42,3 @@ _The Journal of Urology 209.Supplement 4 (2023): e771_.
 "The Novel Green Learning Artificial Intelligence for Prostate Cancer Imaging: A Balanced Alternative to Deep Learning and Radiomics",
 _Urologic Clinics (2023)_.
 [[paper](https://www.urologic.theclinics.com/article/S0094-0143(23)00074-5/fulltext){:target="_blank"}]
-
-* Pranav Kadam, Hardik Prajapati, Min Zhang, __Jintang Xue__, Shan Liu, C-C Jay Kuo,
-"S3I-PointHop: SO (3)-Invariant PointHop for 3D Point Cloud Classification",
-_ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_.
-[[paper](https://ieeexplore.ieee.org/abstract/document/10095473){:target="_blank"}]
