@@ -14,7 +14,7 @@ _arXiv_.
 * Min Zhang*, __Jintang Xue*__, Pranav Kadam, Hardik Prajapati, Shan Liu, C-C Jay Kuo,
 "A Tiny Machine Learning Model for Point Cloud Object Classification",
 _APSIPA Transactions on Signal and Information Processing 12.1 (2023)_.
-[[paper](../files/Green-pointhop.pdf){:target="_blank"}]
+[[paper](https://www.nowpublishers.com/article/Details/SIP-2023-0014){:target="_blank"}]
 [code](https://github.com/jintangxue/Green-PointHop){:target="_blank"}]
 (* denotes equal contribution.)
 
