@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jintang Xue"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Jintang Xue"
 description              : &description "Ph.D. Student in ECE at USC"
