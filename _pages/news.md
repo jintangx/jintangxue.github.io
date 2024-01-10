@@ -5,6 +5,8 @@ permalink: /news/
 author_profile: true
 ---
 
+__2024-01-05__: I pass the ITA oral exam!
+
 __2023-12-04__: I pass the Ph.D. screening exam!
 
 __2023-10-27__: Our research "A Tiny Machine Learning Model for Point Cloud Object Classification" will be presented in the ECE 13th annual research festival.
